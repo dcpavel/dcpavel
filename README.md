@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to My Repository
+
+I am a full-stack engineer, with experience with many different languages and frameworks across my career.
+
+## Languages
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+## Frameworks
+
+
 
 <!--
 **dcpavel/dcpavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
