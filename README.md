@@ -4,7 +4,7 @@ I am a full-stack engineer, with experience with many different languages and fr
 
 ## Languages
 
-![PHP](https://img.shields.io/badge/php?logo=php)
+![PHP](https://img.shields.io/badge/PHP?logo=php&style=for-the-badge)
 
 ## Frameworks
 
