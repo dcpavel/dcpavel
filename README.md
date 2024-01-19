@@ -1,9 +1,18 @@
-### Welcome to My Repository
-I am a full-stack engineer, with experience with many different languages and frameworks across my career.
+<h1 style="text-align: center;"> Welcome to My Repository </h1>
+<div style="text-align: center;">
+  <p>
+    I am a full-stack engineer, with experience with many different languages and frameworks across my career.
+  </p>
+  <p>
+  I have built full websites from the ground up, been a part of developing technologies, and worked in multiple startups. My experience with multiple languages, frameworks, and technologies enables me to learn new skills quickly, and adapt old experiences to new problems.
+  </p>
+</div>
 
-I have built full websites from the ground up, been a part of developing technologies, and worked in multiple startups. My experience with multiple languages, frameworks, and technologies enables me to learn new skills quickly, and adapt old experiences to new problems.
+<h2 style="text-align: center;"> Experienced with the following:</h2>
 
-## Languages
+<h3 style="text-align: center;"> Languages </h3>
+<span style="text-align: center;">
+
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![Java](https://a11ybadges.com/badge?logo=java)
 ![TypeScript](https://a11ybadges.com/badge?logo=typescript)
@@ -12,7 +21,11 @@ I have built full websites from the ground up, been a part of developing technol
 ![C Sharp](https://a11ybadges.com/badge?logo=csharp)
 ![Perl](https://a11ybadges.com/badge?logo=perl)
 
-## Frameworks
+</span>
+
+<h3 style="text-align: center;"> Frameworks </h3>
+<span style="text-align: center;">
+
 ![Flask](https://a11ybadges.com/badge?logo=flask)
 ![Express](https://a11ybadges.com/badge?logo=express)
 ![CakePHP](https://a11ybadges.com/badge?logo=cakephp)
@@ -25,7 +38,11 @@ I have built full websites from the ground up, been a part of developing technol
 ![Jest](https://a11ybadges.com/badge?logo=jest)
 ![jQuery](https://a11ybadges.com/badge?logo=jquery)
 
-## Technologies
+</span>
+
+<h3 style="text-align: center;"> Technologies </h3>
+<span style="text-align: center;">
+
 ![React](https://a11ybadges.com/badge?logo=react)
 ![React Router](https://a11ybadges.com/badge?logo=reactrouter)
 ![Redux](https://a11ybadges.com/badge?logo=redux)
@@ -52,9 +69,15 @@ I have built full websites from the ground up, been a part of developing technol
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 
-## Played Around With
+</span>
+
+<h3 style="text-align: center;"> Played Around With </h3>
+<span style="text-align: center;">
+
 ![Unity](https://a11ybadges.com/badge?logo=unity)
 ![Unreal Engine](https://a11ybadges.com/badge?logo=unrealengine)
+
+</span>
 
 <!--
 ### Open Source Contributions
