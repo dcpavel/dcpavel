@@ -56,8 +56,10 @@ I have built full websites from the ground up, been a part of developing technol
 ![Unity](https://a11ybadges.com/badge?logo=unity)
 ![Unreal Engine](https://a11ybadges.com/badge?logo=unrealengine)
 
+<!--
 ### Open Source Contributions
 [Kaffee](https://github.com/oslabs-beta/Kaffee)
+-->
 
 <!--
 **dcpavel/dcpavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
