@@ -30,14 +30,14 @@ My passion lies in crafting highly maintainable, well-documented, and stable sol
 ![Flask](https://a11ybadges.com/badge?logo=flask)
 ![Express](https://a11ybadges.com/badge?logo=express)
 ![CakePHP](https://a11ybadges.com/badge?logo=cakephp)
-![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Spring Boot](https://a11ybadges.com/badge?logo=springboot)
+![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Vite](https://a11ybadges.com/badge?logo=vite)
+![jQuery](https://a11ybadges.com/badge?logo=jquery)
 ![Docker](https://a11ybadges.com/badge?logo=docker)
 ![Pytest](https://a11ybadges.com/badge?logo=pytest)
 ![JUnit5](https://a11ybadges.com/badge?logo=junit5)
 ![Jest](https://a11ybadges.com/badge?logo=jest)
-![jQuery](https://a11ybadges.com/badge?logo=jquery)
 
 </span>
 
